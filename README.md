@@ -1,2 +1,13 @@
 # genphys-is
-Development of information system for general physics department of MIPT
+
+Разработка информационной системы для кафедры общей физики МФТИ
+
+# Разработка
+
+Задачи и их описания я буду постепенно выкладывать в разделе [issues](https://github.com/Zelenyy/genphys-is/issues).
+
+Важно помнить, что кроме собственно написания кода нужна хорошо все продумать, провести аналитическую работу, сделать дизайн, задокументировать и подготовить к установке.
+
+* [Первая итерация](https://github.com/Zelenyy/genphys-is/issues/1)
+* [Аналитика](https://github.com/Zelenyy/genphys-is/issues/2)
+
